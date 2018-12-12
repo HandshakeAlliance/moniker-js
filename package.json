@@ -1,0 +1,19 @@
+{
+  "name": "moniker-js",
+  "version": "0.1.0",
+  "description": "A library that makes interacting with Handshake domains easier",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "bmocha --reporter spec test/*.js"
+  },
+  "author": "Handshake Alliance",
+  "license": "MIT",
+  "dependencies": {
+    "bsert": "0.0.6",
+    "hs-client": "0.0.4"
+  },
+  "devDependencies": {
+    "bmocha": "^0.1.5",
+    "hsd": "github:handshake-org/hsd"
+  }
+}
