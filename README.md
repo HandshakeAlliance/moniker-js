@@ -8,4 +8,4 @@ Currently Moniker is in beta, and the spec is subject to major changes.
 
 ## Spec
 
-[Moniker Spec](/docs/spec.md)
+[Moniker Spec](/doc/spec.md)
