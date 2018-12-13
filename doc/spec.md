@@ -13,7 +13,7 @@ e.g.
     bitcoin:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
 
 These addresses will be parsed to Moniker underneath the addr array. You can access
-an address linked to a Moniker by calling `get(fullname``)` or, in the case of Bitcoin, Ethereum, and
+an address linked to a Moniker by calling `get(fullname)` or, in the case of Bitcoin, Ethereum, and
 Handshake - call our helper functions of `bitcoin(), ethereum(), handshake()`.
 
 As of right now, Moniker will only parse cryptocurrency addresses that are stored in the Addr
